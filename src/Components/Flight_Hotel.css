@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Flight-hotel-container {
+  height: 305px;
+  width: 100%;
+  background-color: #0f54ca;
+}
+
+.your-Trip {
+  text-align: center;
+  color: #ffffff;
+  font-size: 48px;
+  padding-top: 60px;
+}
+.Flight-Hotel-text {
+  color: #ffffff;
+  font-size: 40px;
+  padding-left: 175px;
+}
+.slide-flight-hotel {
+  min-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  border: 2px solid gray;
+  border-radius: 13px;
+  position: relative;
+  bottom: 90px;
+  background-color: #ffffff;
+}
+.Form {
+  margin-left: 130px;
+  margin-top: 25px;
+}
+.input-departure {
+  margin-right: 5px;
+  height: 55px;
+  width: 200px;
+  border: 2px solid gray;
+  border-radius: 6px;
+  padding-left: 30px;
+}
+.input-depart {
+  margin-left: 50px;
+  height: 55px;
+  width: 410px;
+  border: 2px solid gray;
+  border-radius: 6px;
+  padding-left: 30px;
+}
+.input-Destination {
+  margin-right: 5px;
+  margin-top: 10px;
+  height: 55px;
+  width: 406px;
+  border: 2px solid gray;
+  border-radius: 6px;
+  padding-left: 30px;
+}
+.search-btn {
+  height: 35px;
+  width: 135px;
+  border-radius: 10px !important;
+  margin: 10px 36%;
+  font-size: 20px !important;
+  padding: 0 !important;
+}
+.content-container {
+  max-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  position: relative;
+  top: -40px;
+  display: flex;
+  text-align: center;
+}
+.content-flight-hotel {
+  padding: 0 78px !important;
+  margin: 0 !important;
+}
+.main-title {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-weight: 700;
+}
+.main-flights {
+  min-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+.cards2-flight {
+  padding-top: 15px !important;
+  cursor: pointer;
+}
+.logos {
+  min-height: 122px;
+  max-width: 1156px;
+  margin: auto;
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+.flight-hotel-image-container{
+    width: 100%;
+    max-height: 250px;
+    background-color: #B2A2E2;
+    color: #FFFFFF;
+    margin: 50px 0;
+}
+.flight-hotel-image{
+    max-width: 900px;
+    max-height: 250px;
+    margin-left: 207px;
+
+}

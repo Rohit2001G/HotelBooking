@@ -1,0 +1,106 @@
+.car-container {
+  height: 305px;
+  width: 100%;
+  background-color: #0f54ca;
+  position: relative;
+}
+.slide-car {
+  max-height: 180px;
+  width: 1156px;
+  margin: auto;
+  border: 2px solid gray;
+  border-radius: 13px;
+  position: relative;
+  bottom: 90px;
+  background-color: #ffffff;
+}
+.Form-car{
+    padding: 30px 50px;
+}
+.input-from-car{
+    height: 79px;
+    width: 221px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.input-pickup{
+    height: 79px;
+    width: 274px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+
+.search-btn-car{
+ min-width: 135px;
+ min-height: 52px;
+ font-size: 24px !important;
+ border-radius: 10px !important;
+ margin-top: 10px;
+ margin-left: 400px;
+}
+.container-cards-car{
+ min-height: 500px;
+  max-width: 1200px;
+  margin: auto;
+  position: relative;
+  bottom: 30px;
+}
+.Popular-car{
+    font-size: 32px;
+    font-weight: 700;
+    padding-left: 10px !important;
+    margin-top: 40px !important;
+    
+}
+#cards-row-car{
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 50px !important;
+    
+}
+.car-cards{
+    height: 192px;
+    width: 260px !important;
+    /* border: 2px solid gray; */
+    padding: 0 !important;
+    margin-top: 20px !important;
+    cursor: pointer;    
+}
+.Car-rental{
+    font-size: 32px;
+    font-weight: 700;
+    padding-left: 10px !important;
+    margin-top: 40px !important;
+}
+#rental-row-car{
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 40px !important;
+    
+    
+}
+.rental-cards{
+    height: 255px;
+    width: 267px !important;
+    /* border: 2px solid gray; */
+    padding: 0 !important;
+    margin-top: 20px !important;
+    border-radius: 12px;
+    
+}
+.profile-Image{
+  padding: 30px;
+}
+.car-image-container{
+    width: 100%;
+    height: 265px;
+    background-color: #B2A2E2;
+    color: #FFFFFF;
+    margin: 50px 0;
+}
+.car-image{
+    max-width: 900px;
+    max-height: 250px;
+    margin-left: 186px;
+
+}

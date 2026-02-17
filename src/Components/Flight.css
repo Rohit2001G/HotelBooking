@@ -1,0 +1,99 @@
+
+
+.slide-contaier{
+  min-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  /* border: 2px solid gray; */
+  border-radius: 32px;
+  position: relative;
+  bottom: 90px;
+  background-color: #FFFFFF;
+}
+.inputs-flights-container{
+ position: absolute;
+  left: -256px;
+  top: 72px;
+}
+.inputs-flights{
+  height: 43px;
+  border-radius: 6px;
+  margin-left: 15px;
+}
+#submit-btn{
+  width: 190px;
+  height: 50px;
+  border-radius: 10px;
+  position: absolute;
+  top: 67px;
+  left: 405px;
+}
+
+.main-flights{
+  min-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  border-radius: 32px;
+  position: relative;
+  top: -60px;
+  background-color: #FFFFFF;
+}
+.cards-flight{
+    /* border: 2px solid gray; */
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.cards2-flight{
+    /* border: 2px solid gray; */
+    border-radius: 20px;
+    padding-top: 40px !important;
+    padding-bottom: 35px;
+    padding-left: 10px;
+}
+.cards2-flight p span{
+    padding-left: 70px;
+}
+.flight-image-container{
+    width: 100%;
+    max-height: 250px;
+    background-color: #B2A2E2;
+    color: #FFFFFF;
+    margin: 0px 0 !important;
+    justify-content: space-between;
+}
+
+.flight-image{
+    max-width: 900px;
+    max-height: 250px;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+.find-container{
+  max-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  margin-top: 25px;
+  gap: 10px !important;
+}
+
+.find-text{
+   width: 276px;
+    height: 27px;
+    font-size: 13px;
+    background-color: black;
+    color: #FFFFFF;
+    border: 2px solid white;
+    padding: 0 12px;
+}
+.recomandation-flight{
+  max-height: 318px;
+  max-width: 1156px;
+  position: relative;
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+  margin: auto;
+}
+.list-recomandation-flight{
+  list-style: none;
+}

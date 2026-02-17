@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Train-container {
+  height: 305px;
+  width: 100%;
+  background-color: #0f54ca;
+  position: relative;
+}
+.slide-Train {
+  max-height: 180px;
+  width: 1156px;
+  margin: auto;
+  border: 2px solid gray;
+  border-radius: 13px;
+  position: relative;
+  bottom: 90px;
+  background-color: #ffffff;
+}
+.Form-Train{
+    padding: 60px 50px;
+}
+.input-from{
+    height: 79px;
+    width: 198px;
+    border-radius: 6px;
+    margin-right: 20px;
+}
+.input-return{
+    min-height: 79px;
+   min-width: 459px;
+    border-radius: 6px;
+     margin-right: 10px;
+}
+.search-btn-train{
+ min-width: 135px;
+ min-height: 62px;
+ font-size: 24px !important;
+  margin-right: 10px;
+  border-radius: 10px !important;
+}
+.container-cards-train{
+ min-height: 500px;
+  max-width: 1190px;
+  margin: auto;
+  position: relative;
+  bottom: 40px;
+}
+.main-Train {
+  min-height: 205px;
+  max-width: 1156px;
+  margin: auto;
+  border-radius: 12px;
+  background-color: #ffffff;
+  position: relative;
+  bottom: 270px;
+}
+.recomandation-train{
+  max-height: 318px;
+  max-width: 1132px;
+  position: relative;
+  bottom: 205px;
+  margin: auto;
+}
+.train-image-container{
+    width: 100%;
+    max-height: 250px;
+    background-color: #B2A2E2;
+    color: #FFFFFF;
+    position: relative;
+    bottom: 100px;
+}
+.train-image{
+    max-width: 900px;
+    max-height: 250px;
+  }

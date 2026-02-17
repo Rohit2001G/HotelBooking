@@ -1,0 +1,40 @@
+
+/* #main-container-nav{
+  margin-top: 20px;
+  max-height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: 0;
+}
+#ul-nav{
+  color:#857B7B;
+  display: flex;
+  list-style: none;
+  gap: 70px;
+  margin-top: 18px;
+ font-size: 20px;
+}
+#login-btn{
+  border-radius: 12px;
+}
+.nav-login{
+  border-radius: 10px;
+  background-color: #182FFF;
+  color: white;
+  font-size: 16px;
+} */
+
+.collapse{
+  margin-left: 150px;
+}
+.nav-item{
+  margin-left: 50px !important;
+}
+
+.li-text{
+  font-size: 20px;
+  color: #857B7B !important;
+  font-weight: 500;
+}
