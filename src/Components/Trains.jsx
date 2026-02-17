@@ -30,7 +30,7 @@ return(
 
       <div className="container-cards-train">
         <p className="new-user">New user exclusive</p>
-        <div className="row gy-5" id="cards-row">
+        <div className="row" id="cards-row1">
           <div className="col-3">
             <div className="cards-me px-4 py-2 m-0 bg-light shadow">
               <p className="pt-5 fw-bold fs-4">2%Off</p>
